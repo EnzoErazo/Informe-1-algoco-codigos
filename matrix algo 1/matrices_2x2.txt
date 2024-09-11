@@ -1,0 +1,66 @@
+# Matrices 2x2 
+
+# Ejemplo 1
+# Semi-ordenada
+0 1
+2 3
+
+# Aleatoria
+42 70
+50 22
+
+# Completamente ordenada
+1 2
+3 4
+
+# Ejemplo 2
+# Semi-ordenada
+0 1
+2 3
+
+# Aleatoria
+33 97
+69 59
+
+# Completamente ordenada
+1 2
+3 4
+
+# Ejemplo 3
+# Semi-ordenada
+0 1
+2 3
+
+# Aleatoria
+30 67
+30 86
+
+# Completamente ordenada
+1 2
+3 4
+
+# Ejemplo 4
+# Semi-ordenada
+0 1
+2 3
+
+# Aleatoria
+26 95
+55 53
+
+# Completamente ordenada
+1 2
+3 4
+
+# Ejemplo 5
+# Semi-ordenada
+0 1
+2 3
+
+# Aleatoria
+66 44
+31 34
+
+# Completamente ordenada
+1 2
+3 4

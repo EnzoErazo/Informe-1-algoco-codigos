@@ -1,0 +1,96 @@
+# Matrices 4x4 
+
+# Ejemplo 1
+# Semi-ordenada
+0 1 2 3
+4 5 6 7
+8 9 10 11
+12 13 14 15
+
+# Aleatoria
+36 93 23 21
+97 43 65 43
+26 11 39 61
+15 92 22 51
+
+# Completamente ordenada
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+
+# Ejemplo 2
+# Semi-ordenada
+0 1 2 3
+4 5 6 7
+8 9 10 11
+12 13 14 15
+
+# Aleatoria
+66 10 22 31
+47 4 31 13
+76 44 11 63
+33 56 89 57
+
+# Completamente ordenada
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+
+# Ejemplo 3
+# Semi-ordenada
+0 1 2 3
+4 5 6 7
+8 9 10 11
+12 13 14 15
+
+# Aleatoria
+62 31 76 24
+98 5 74 15
+97 48 66 55
+98 16 79 77
+
+# Completamente ordenada
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+
+# Ejemplo 4
+# Semi-ordenada
+0 1 2 3
+4 5 6 7
+8 9 10 11
+12 13 14 15
+
+# Aleatoria
+15 44 87 21
+33 72 36 18
+80 67 36 46
+74 70 93 40
+
+# Completamente ordenada
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+
+# Ejemplo 5
+# Semi-ordenada
+0 1 2 3
+4 5 6 7
+8 9 10 11
+12 13 14 15
+
+# Aleatoria
+76 6 26 15
+44 46 53 7
+96 48 79 98
+3 46 88 31
+
+# Completamente ordenada
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16

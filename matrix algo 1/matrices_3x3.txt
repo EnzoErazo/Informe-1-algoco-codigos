@@ -1,0 +1,81 @@
+# Matrices 3x3 
+
+# Ejemplo 1
+# Semi-ordenada
+0 1 2
+3 4 5
+6 7 8
+
+# Aleatoria
+81 19 70
+19 99 90
+44 27 62
+
+# Completamente ordenada
+1 2 3
+4 5 6
+7 8 9
+
+# Ejemplo 2
+# Semi-ordenada
+0 1 2
+3 4 5
+6 7 8
+
+# Aleatoria
+35 81 98
+75 48 42
+10 69 55
+
+# Completamente ordenada
+1 2 3
+4 5 6
+7 8 9
+
+# Ejemplo 3
+# Semi-ordenada
+0 1 2
+3 4 5
+6 7 8
+
+# Aleatoria
+75 29 20
+56 71 33
+59 53 32
+
+# Completamente ordenada
+1 2 3
+4 5 6
+7 8 9
+
+# Ejemplo 4
+# Semi-ordenada
+0 1 2
+3 4 5
+6 7 8
+
+# Aleatoria
+75 29 46
+59 46 46
+90 16 72
+
+# Completamente ordenada
+1 2 3
+4 5 6
+7 8 9
+
+# Ejemplo 5
+# Semi-ordenada
+0 1 2
+3 4 5
+6 7 8
+
+# Aleatoria
+14 2 35
+59 60 93
+32 64 11
+
+# Completamente ordenada
+1 2 3
+4 5 6
+7 8 9
